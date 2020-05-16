@@ -4,7 +4,7 @@ Este repositorio incluye una aplicación programada en Python para hacer pregunt
 
 #### Requisitos
 * Python 3.X 
-* Compatible con Windows(tested with Python 3.8.2) y Ubuntu(tested with Python 3.6.9)
+* Compatible con Windows(probado con Python 3.8.2) y Ubuntu(probado con Python 3.6.9)
 
 #### Ejecución
 Para ejecutar el programa simplemente hay que lanzar el archivo TeoricoULM.py desde el directorio donde esté descargado.
