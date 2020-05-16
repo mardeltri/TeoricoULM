@@ -7,7 +7,7 @@ from data.menus import MENU, SETTINGS_MENU
 class Utils:
     def __init__(self):
         if os.name == 'posix':
-            self.clear_command = 'reset'
+            self.clear_command = 'clear'
         else:
             self.clear_command = 'cls'
 
