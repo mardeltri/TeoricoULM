@@ -3,12 +3,11 @@
 Este repositorio incluye una aplicación programada en Python para hacer preguntas test de la parte teórica de la licencia de ULM.
 
 #### Requisitos
-* Python 3.8.2
-* Módulos: pickle, os, random
-* Compatible con Windows y Ubuntu
+* Python 3.X 
+* Compatible con Windows(tested with Python 3.8.2) y Ubuntu(tested with Python 3.6.9)
 
 #### Ejecución
-Para ejecutar el programa simplemente hay que lanzar el archivo TeoricoULM.py
+Para ejecutar el programa simplemente hay que lanzar el archivo TeoricoULM.py desde el directorio donde esté descargado.
 
 ```
 python TeoricoULM.py
